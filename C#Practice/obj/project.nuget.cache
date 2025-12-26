@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "PFH+4iRvqgqFkCbQOXDy2EKP730XPrCgy4ltI69ex6/9ARMQA5+7AWSBgwhe8xrh/eta53wAALPV/72FDWF7xw==",
+  "dgSpecHash": "HWnqDk9xpWA=",
   "success": true,
-  "projectFilePath": "/home/deepakyenagandula/C#Practice/c-practice/C#Practice/C#Practice.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\deepa\\source\\repos\\c-practice\\C#Practice\\C#Practice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\deepa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.22\\microsoft.windowsdesktop.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\deepa\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.22\\microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\deepa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.22\\microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\deepa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.22\\microsoft.netcore.app.host.win-x64.8.0.22.nupkg.sha512"
+  ],
   "logs": []
 }
